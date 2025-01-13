@@ -1,0 +1,28 @@
+File: aqua-teen-hunger-force-zombie-ninja-pro-am.html
+URL: File:///Users/mgreenidge/PycharmProjects/Search engine/videogames/aqua-teen-hunger-force-zombie-ninja-pro-am.html 
+Title: Aqua Teen Hunger Force Zombie Ninja Pro-Am (PS2) 
+Game Info:
+    Developer: Creat Studio
+    Publisher: Midway  Games
+    Genre: Racing, Action
+    Release Date: November 5, 2007
+    ESRB: Mature
+    GameSpy Score: N/A
+Relevance: High relevance! 
+Similarity: 13.114796448042181 
+
+---
+File: chaos-wars.html
+URL: File:///Users/mgreenidge/PycharmProjects/Search engine/videogames/chaos-wars.html 
+Title: Chaos Wars (PS2) 
+Game Info:
+    Developer: Idea Factory
+    Publisher: O~3 Entertainment
+    Genre: Strategy
+    Release Date: June 3, 2008
+    ESRB: Teen / for Alcohol Reference, Animated Blood, Mild Fantasy Violence, Suggestive Themes
+    GameSpy Score: N/A
+Relevance: Relevant 
+Similarity: 7.115749441610358 
+
+---
