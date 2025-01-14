@@ -12,4 +12,10 @@ pip install beautifulsoup
 
 2. Run with python on command prompt and input query
 
+3. There will be a menu that will prompt if you want to use normal serch mode, or experiment mode.
+
+4. Normal search mode searches normally
+
+5. Experiment mode will search with either no preprocessing techniques, stop word removal, lemmatization, or stemming.
+
 I have used the File path as the URL as there aren't any Actual URL's from the web pages
